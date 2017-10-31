@@ -14,6 +14,7 @@ namespace InactiveWindowsBarColorSetter
         [STAThread]
         static void Main()
         {
+            //testing GIT
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
