@@ -155,16 +155,6 @@ namespace InactiveWindowsBarColorSetter
             }
         }
 
-        private void label1_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void textBox4_TextChanged(object sender, EventArgs e)
-        {
-
-        }
-
         private void trackBar2_Scroll(object sender, EventArgs e)
         {
             this.textBoxGreen.Text = "" + this.trackBarGreen.Value;
