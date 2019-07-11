@@ -38,7 +38,7 @@ __Colorful Title Bars is a portable Windows 10 desktop tool that lets you easily
 
 ## Download
 
-For download, visit the release page.
+For download, visit the [release page](https://github.com/Plotron/Colorful-Title-Bars/releases).
 
 ## Technical Stuff and Third-Party Libraries
 
