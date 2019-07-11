@@ -117,4 +117,29 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="ColorDisabledWarningMessage" xml:space="preserve">
+    <value>Colorful title bars are currently disabled. Do you want to enable colorful title bars so you can see the changes you make?
+You can always disable them in Windows personalization settings.</value>
+  </data>
+  <data name="ColorDisabledWarningTitle" xml:space="preserve">
+    <value>Enable colorful title bars?</value>
+  </data>
+  <data name="IncompatibleSystemErrorMessage" xml:space="preserve">
+    <value>Your system is incompatible with this application. This application will close down.</value>
+  </data>
+  <data name="IncompatibleSystemErrorTitle" xml:space="preserve">
+    <value>This application works on Windows 10 only!</value>
+  </data>
+  <data name="RegistryInaccessibleErrorMessage" xml:space="preserve">
+    <value>Failed to apply changes.  The registry key is inaccessible!</value>
+  </data>
+  <data name="RegistryUpdateErrorTitle" xml:space="preserve">
+    <value>Error! Failed to apply changes!</value>
+  </data>
+  <data name="RegFileParsingFailedMessage" xml:space="preserve">
+    <value>Inactive accent color value couldn't be found in the file. Make sure the file contains valid registry data.</value>
+  </data>
+  <data name="RegFileParsingFailedTitle" xml:space="preserve">
+    <value>Inactive accent color value not found</value>
+  </data>
 </root>

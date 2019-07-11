@@ -117,4 +117,29 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="ColorDisabledWarningMessage" xml:space="preserve">
+    <value>Kolorowe paski tytułowe są obecnie wyłączone. Czy chcesz je teraz włączyć, aby widzieć zastosowane zmiany? 
+W każdej chwili możesz je na powrót wyłączyć z poziomu ustawień personalizacji Windows.</value>
+  </data>
+  <data name="ColorDisabledWarningTitle" xml:space="preserve">
+    <value>Włączyć kolorowe paski tytułowe?</value>
+  </data>
+  <data name="IncompatibleSystemErrorMessage" xml:space="preserve">
+    <value>Twój system jest niekompatybilny z tą aplikacją. Aplikacja zostanie zamknięta.</value>
+  </data>
+  <data name="IncompatibleSystemErrorTitle" xml:space="preserve">
+    <value>Ta aplikacja działa tylko na Windows 10!</value>
+  </data>
+  <data name="RegistryInaccessibleErrorMessage" xml:space="preserve">
+    <value>Nie udało się zastosować zmian. Brak dostępu do klucza w rejestrze!</value>
+  </data>
+  <data name="RegistryUpdateErrorTitle" xml:space="preserve">
+    <value>Błąd! Nie udało się zastosować zmian!</value>
+  </data>
+  <data name="RegFileParsingFailedMessage" xml:space="preserve">
+    <value>Nie odnaleziono w pliku wartości koloru wiodącego dla nieaktywnych pasków tytułowych. Upewnij się, że plik zawiera poprawny wpis do rejestru.</value>
+  </data>
+  <data name="RegFileParsingFailedTitle" xml:space="preserve">
+    <value>Nie odnaleziono wartości koloru wiodącego dla nieaktywnych pasków</value>
+  </data>
 </root>

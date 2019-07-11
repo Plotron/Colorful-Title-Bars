@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InactiveWindowsBarColorSetter", "InactiveWindowsBarColorSetter\InactiveWindowsBarColorSetter.csproj", "{0373CBA8-8F5E-4FFA-84FF-2677FA9DE356}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ColorfulTitleBars", "InactiveWindowsBarColorSetter\ColorfulTitleBars.csproj", "{0373CBA8-8F5E-4FFA-84FF-2677FA9DE356}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTests", "UnitTests\UnitTests.csproj", "{52F3389A-6DB6-4605-81CD-B5A5F8822302}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,9 @@ Global
 		{0373CBA8-8F5E-4FFA-84FF-2677FA9DE356}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0373CBA8-8F5E-4FFA-84FF-2677FA9DE356}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0373CBA8-8F5E-4FFA-84FF-2677FA9DE356}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52F3389A-6DB6-4605-81CD-B5A5F8822302}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52F3389A-6DB6-4605-81CD-B5A5F8822302}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52F3389A-6DB6-4605-81CD-B5A5F8822302}.Release|Any CPU.ActiveCfg = Debug|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

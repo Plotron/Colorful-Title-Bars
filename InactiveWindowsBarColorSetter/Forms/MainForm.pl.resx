@@ -117,10 +117,70 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <metadata name="colorDialog1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
-    <value>17, 17</value>
-  </metadata>
+  <data name="winColorPaletteBtn.Text" xml:space="preserve">
+    <value>Paleta Kolorów Windows</value>
+  </data>
+  <data name="restoreDefaultBtn.Text" xml:space="preserve">
+    <value>Przywróć</value>
+  </data>
+  <data name="submitBtn.Text" xml:space="preserve">
+    <value>Zastosuj</value>
+  </data>
+  <data name="autoBtn.Text" xml:space="preserve">
+    <value>Wybierz kolor automatycznie</value>
+  </data>
   <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="currentActiveAccentColorToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>255, 22</value>
+  </data>
+  <data name="currentActiveAccentColorToolStripMenuItem.Text" xml:space="preserve">
+    <value>Obecny kolor wiodący aktywny</value>
+  </data>
+  <data name="currentInactiveAccentColorToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>255, 22</value>
+  </data>
+  <data name="currentInactiveAccentColorToolStripMenuItem.Text" xml:space="preserve">
+    <value>Obecny kolor wiodący nieaktywny</value>
+  </data>
+  <data name="importFromRegistryToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>327, 22</value>
+  </data>
+  <data name="importFromRegistryToolStripMenuItem.Text" xml:space="preserve">
+    <value>Importuj z rejestru...</value>
+  </data>
+  <data name="openToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>327, 22</value>
+  </data>
+  <data name="openToolStripMenuItem.Text" xml:space="preserve">
+    <value>Importuj kolor z pliku .reg...</value>
+  </data>
+  <data name="toolStripMenuItem1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>324, 6</value>
+  </data>
+  <data name="saveInactiveAccentColorAsToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>327, 22</value>
+  </data>
+  <data name="saveInactiveAccentColorAsToolStripMenuItem.Text" xml:space="preserve">
+    <value>Zapisz kolor jako wiodący nieaktywny jako...</value>
+  </data>
+  <data name="saveCurrentAccentColorsAsToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>327, 22</value>
+  </data>
+  <data name="saveCurrentAccentColorsAsToolStripMenuItem.Text" xml:space="preserve">
+    <value>Zapisz obecne w systemie kolory wiodące jako...</value>
+  </data>
+  <data name="fileToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>38, 20</value>
+  </data>
+  <data name="fileToolStripMenuItem.Text" xml:space="preserve">
+    <value>Plik</value>
+  </data>
+  <data name="aboutToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>74, 20</value>
+  </data>
+  <data name="aboutToolStripMenuItem.Text" xml:space="preserve">
+    <value>O aplikacji</value>
+  </data>
   <data name="$this.Icon" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
         AAABAAEAgIAAAAEAIAAoCAEAFgAAACgAAACAAAAAAAEAAAEAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
@@ -1252,5 +1312,8 @@
         AAAAAAAAAAAAAAAAAAAAAAAAAAAAAPAAAAAAAAAAAAAAAAAAAA/wAAAAAAAAAAAAAAAAAAAP8AAAAAAA
         AAAAAAAAAAAAD/AAAAAAAAAAAAAAAAAAAA8=
 </value>
+  </data>
+  <data name="$this.Text" xml:space="preserve">
+    <value>Kolorowe Paski Tytułowe</value>
   </data>
 </root>
